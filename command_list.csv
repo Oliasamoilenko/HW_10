@@ -163,3 +163,12 @@ git fsck
   140  cd git
   141   git clone https://github.com/Oliasamoilenko/HW_10.git
   142  history > command_list.csv
+  143  git add .
+  144  git add .
+  145  git commit -m "Saved command history to command_list.csv"
+  146  git push
+  147  git push
+  148  cd ~
+  149  git clone https://github.com/Oliasamoilenko/HW_10.git
+  150  cd ~/desktop/git/HW_10
+  151  history > command_list.csv
